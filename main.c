@@ -12,8 +12,6 @@
 
 #define ROWS 3
 #define COLS 3
-
-// Function prototypes
 void input_matrix(int matrix[ROWS][COLS]);
 void print_matrix(int matrix[ROWS][COLS]);
 void print_vector(int vector[], int size);
